@@ -2,6 +2,21 @@
 
 ## Instruções
 
+Para rodar o programa com o Haskellings, certifique-se que o Haskell esteja instalado na sua máquina. Você pode fazer isso pelo [Haskell Platform](https://haskell.org/platform).
+
+Em seguida, clone este repositório, e dar um build com stack:
+
+```bash
+>> git clone git@github.com:JoaoAccorsi/Haskell.git
+>> stack build
+```
+É necessário clonar o repositório em algum lugar com o diretório home.
+
+Depois disso, instale `haskellings` para executar o programa localmente com o `stack install`. Assim, já será possível rodar o programa com o `haskellings`:
+
+```bash
+>> stack install
+>> haskellings run Types1
 
 ## Objetivo
 
