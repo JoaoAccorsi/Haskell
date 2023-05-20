@@ -1,10 +1,8 @@
-# Trabalho GA 2023/1 | Paradigmas de Programação - Haskell
+# Paradigmas de Programação - Haskell
 
 ## Instruções
 
-Para rodar o programa com o Haskellings, certifique-se que o Haskell esteja instalado na sua máquina. Você pode fazer isso pelo [Haskell Platform](https://haskell.org/platform).
-
-Em seguida, clone este repositório, e dar um build com stack:
+Para rodar o programa com o Haskellings, certifique-se que o Haskell esteja instalado na sua máquina. Você pode fazer isso pelo [Haskell Platform](https://haskell.org/platform). Em seguida, clone este repositório, e de um build com stack:
 
 ```bash
 >> git clone git@github.com:JoaoAccorsi/Haskell.git
@@ -17,7 +15,8 @@ Depois disso, instale `haskellings` para executar o programa localmente com o `s
 ```bash
 >> stack install
 >> haskellings run Types1
-
+```
+___
 ## Objetivo
 
 Desenvolver um programa, na linguagem haskell, que receba os seguintes dados:
@@ -25,7 +24,7 @@ Nome, idade, endereço e CEP
 
 1) Fazer um relatório com a entrada de 10 cadastros;
 2) Exibir média de idade;
-3) Por CEP determinar que mora mais próximo de quem;
+3) Por CEP determinar que mora mais próximo de quem.
 
 ___
 
@@ -40,11 +39,11 @@ ___
 - Marcos Vinicius Berté
 
 - Rafael Hansen Klauck
-
+___
 **Professor**
 
 - Cassiano Ricardo Neubauer Moralles
-
+___
 **Instituição**
 
 - Universidade do Vale do Rio dos Sinos (UNISINOS)
