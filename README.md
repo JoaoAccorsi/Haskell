@@ -14,7 +14,7 @@ Depois disso, instale `haskellings` para executar o programa localmente com o `s
 
 ```bash
 >> stack install
->> haskellings run Types1
+>> haskellings run main
 ```
 ___
 ## Objetivo
