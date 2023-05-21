@@ -28,7 +28,7 @@ lerPessoa = do
 
 -- Função para ler 10 cadastros
 lerCadastros :: IO [Pessoa]
-lerCadastros = sequence (replicate 4 lerPessoa)
+lerCadastros = sequence (replicate 10 lerPessoa)
 
 -- Função para calcular a média de idade
 mediaIdade :: [Pessoa] -> Double
